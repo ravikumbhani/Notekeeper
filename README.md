@@ -29,4 +29,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Acknowledgments:
 
-Special thanks to [codewithsadee](https://github.com/ravikumbhani), for his invaluable guidance and expertise in web development. his teachings on writing clean code, crafting well-structured HTML, efficient CSS styling, and maintaining clean JavaScript code have been instrumental in the development of NoteKeeper.
+Special thanks to [Ravi Kumbhani](https://github.com/ravikumbhani), for his invaluable guidance and expertise in web development. his teachings on writing clean code, crafting well-structured HTML, efficient CSS styling, and maintaining clean JavaScript code have been instrumental in the development of NoteKeeper.
